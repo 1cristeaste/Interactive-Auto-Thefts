@@ -5,8 +5,9 @@ The inspiration for this project came from a statistics course (view repository 
 
 Data was pulled from the Toronto police site.
 
-Link for the app: https://stephanie-cristea.shinyapps.io/toronto_auto_theft_interactive/
-Link for the Linkedin article I wrote about SHiny and this map: https://www.linkedin.com/pulse/power-shiny-toronto-auto-theft-data-stephanie-cristea/
+Link for the app: https://stephanie-cristea.shinyapps.io/toronto_auto_theft_interactive
+
+Link for the Linkedin article I wrote about Shiny and this map: https://www.linkedin.com/pulse/power-shiny-toronto-auto-theft-data-stephanie-cristea/
 
 
 (Was created Dec 2019 and published to my other, now abandoned, GitHub)
